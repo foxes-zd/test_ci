@@ -3,7 +3,7 @@ food-diary
 
 This application integrates an authentication with Github. You first need
  to create an OAuth application on the Github website : https://github.com/settings/applications/new.
- 
+ TEST MEHDI
  ![Creation OAuth app](https://cloud.githubusercontent.com/assets/667519/25222203/1d9ad858-25b8-11e7-8a8c-7980a53c971f.png)
 
  
